@@ -1,0 +1,102 @@
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csprojResolveAssemblyReference.cache
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.MainForm.resources
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.Properties.Resources.resources
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe.config
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Benchtop.StepperMotorCLI.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CopyComplete
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\source\repos\Kinesis Quick Start Device Control Examples_v2_201804_64bit\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe.config
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Benchtop.StepperMotorCLI.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csprojAssemblyReference.cache
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.MainForm.resources
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.Properties.Resources.resources
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CopyComplete
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v2\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe.config
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Benchtop.StepperMotorCLI.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csprojAssemblyReference.cache
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.MainForm.resources
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.Properties.Resources.resources
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CopyComplete
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\source\repos\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe.config
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Benchtop.StepperMotorCLI.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csprojAssemblyReference.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.MainForm.resources
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.Properties.Resources.resources
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CopyComplete
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis_BSC201_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe.config
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Benchtop.StepperMotorCLI.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csprojAssemblyReference.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.MainForm.resources
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.Properties.Resources.resources
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CoreCompileInputs.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CopyComplete
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC20X_64bit_v3\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe.config
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\BSC_BenchtopStepperMotor.pdb
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Benchtop.StepperMotorCLI.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.DeviceManagerCLI.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.GenericMotorCLI.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csprojAssemblyReference.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.MainForm.resources
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.Properties.Resources.resources
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.GenerateResource.cache
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.csproj.CopyComplete
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.exe
+C:\Users\Techsupport_PC\Documents\Visual Studio 2017\Projects\Kinesis BSC201_HDR50_v0b\BSC_BenchtopStepperMotor\obj\x64\Debug\BSC_BenchtopStepperMotor.pdb
